@@ -1,4 +1,139 @@
-[
+[ {
+      "Title": "Die Hard",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "20 Jul 1988",
+      "Runtime": "132 min",
+      "Genre": "Action, Thriller",
+      "Director": "John McTiernan",
+      "Writer": "Roderick Thorp (novel), Jeb Stuart (screenplay), Steven E. de Souza (screenplay)",
+      "Actors": "Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson",
+      "Plot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "Language": "English, German, Italian, Japanese",
+      "Country": "USA",
+      "Awards": "Nominated for 4 Oscars. Another 8 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwNDg4MTAxNl5BMl5BanBnXkFtZTYwNjA3OTY2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "8.2",
+      "imdbVotes": "803,651",
+      "imdbID": "tt0095016",
+      "Type": "movie",
+      "DVD": "09 Mar 1999",
+      "BoxOffice": "$81,350,242",
+      "Production": "20th Century Fox",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Matrix",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "31 Mar 1999",
+      "Runtime": "136 min",
+      "Genre": "Action, Sci-Fi",
+      "Director": "Lana Wachowski, Lilly Wachowski",
+      "Writer": "Lilly Wachowski, Lana Wachowski",
+      "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+      "Plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 4 Oscars. Another 37 wins & 51 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwOTkxOTk4M15BMl5BanBnXkFtZTYwNDIxNzA3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.7",
+      "imdbVotes": "1,741,012",
+      "imdbID": "tt0133093",
+      "Type": "movie",
+      "DVD": "21 Sep 1999",
+      "BoxOffice": "$171,479,930",
+      "Production": "Warner Bros. Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Dark Knight",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "18 Jul 2008",
+      "Runtime": "152 min",
+      "Genre": "Action, Crime, Drama, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+      "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+      "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "Language": "English, Mandarin",
+      "Country": "USA, UK",
+      "Awards": "Won 2 Oscars. Another 157 wins & 163 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMxNDY0Ml5BMl5BanBnXkFtZTYwMzAwMzg2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "9.0",
+      "imdbVotes": "2,388,480",
+      "imdbID": "tt0468569",
+      "Type": "movie",
+      "DVD": "09 Dec 2008",
+      "BoxOffice": "$534,858,444",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://thedarkknight.warnerbros.com/",
+      "Response": "True"
+    },
+    {
+      "Title": "Mad Max: Fury Road",
+      "Year": "2015",
+      "Rated": "R",
+      "Released": "15 May 2015",
+      "Runtime": "120 min",
+      "Genre": "Action, Adventure, Sci-Fi, Thriller",
+      "Director": "George Miller",
+      "Writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+      "Actors": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne",
+      "Plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+      "Language": "English, Russian",
+      "Country": "Australia, USA",
+      "Awards": "Won 6 Oscars. Another 230 wins & 219 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMjU4ODkxND
+
   {
     "Title": "Face/Off",
     "Year": "1997",
