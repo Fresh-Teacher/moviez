@@ -1,4 +1,5 @@
-[ {
+[
+      {
       "Title": "Die Hard",
       "Year": "1988",
       "Rated": "R",
@@ -118,22 +119,6 @@
       "Website": "http://thedarkknight.warnerbros.com/",
       "Response": "True"
     },
-    {
-      "Title": "Mad Max: Fury Road",
-      "Year": "2015",
-      "Rated": "R",
-      "Released": "15 May 2015",
-      "Runtime": "120 min",
-      "Genre": "Action, Adventure, Sci-Fi, Thriller",
-      "Director": "George Miller",
-      "Writer": "George Miller, Brendan McCarthy, Nick Lathouris",
-      "Actors": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne",
-      "Plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
-      "Language": "English, Russian",
-      "Country": "Australia, USA",
-      "Awards": "Won 6 Oscars. Another 230 wins & 219 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMjU4ODkxND
-
   {
     "Title": "Face/Off",
     "Year": "1997",
